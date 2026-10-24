@@ -1,1 +1,2 @@
 # odin-recipes
+The following website consists of an index that contains several hyperlinks that will allow to user to check out different food recipes. I'm hoping this project will finally bring me out of my comfort zone and allow me to do "stuff" without freaking out and droping it altogether. 
